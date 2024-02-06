@@ -1,0 +1,18 @@
+Options -Indexes
+
+<IfModule dir_module>
+	DirectoryIndex disabled
+	DirectoryIndex index.php
+</IfModule>
+
+<IfModule authz_core_module>
+	<Files ~ "\.(htaccess|csv)$">
+		Require all denied
+	</Files>
+</IfModule>
+
+<IfModule !authz_core_module>
+	<Files ~ "\.(htaccess|csv)$">
+		Deny from all
+	</Files>
+</IfModule>

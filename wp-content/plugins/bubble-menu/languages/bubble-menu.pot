@@ -1,0 +1,630 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Bubble Menu Lite\n"
+"POT-Creation-Date: 2021-09-22 13:23+0300\n"
+"PO-Revision-Date: 2021-09-22 13:23+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bubble-menu.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-admin.php:135
+msgid "More features in the PRO version"
+msgstr ""
+
+#: admin/class-admin.php:235 admin/page-settings.php:112
+#: admin/settings/main.php:29
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:253
+#, php-format
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">"
+msgstr ""
+
+#: admin/class-admin.php:301
+msgid "Something went wrong. Contact the plugin developer"
+msgstr ""
+
+#: admin/class-admin.php:314 admin/page-main.php:21
+msgid "Item Added"
+msgstr ""
+
+#: admin/class-admin.php:330 admin/page-main.php:23
+msgid "Item Updated"
+msgstr ""
+
+#: admin/class-list-table.php:106 admin/class-list-table.php:228
+msgid "Untitle"
+msgstr ""
+
+#: admin/class-list-table.php:113
+msgid "Edit"
+msgstr ""
+
+#: admin/class-list-table.php:114
+msgid "Duplicate"
+msgstr ""
+
+#: admin/class-list-table.php:116 admin/page-settings.php:85
+msgid "Delete"
+msgstr ""
+
+#: admin/class-list-table.php:230
+msgid "Active"
+msgstr ""
+
+#: admin/class-list-table.php:231
+msgid "Inactive"
+msgstr ""
+
+#: admin/class-list-table.php:310
+msgid "Delate"
+msgstr ""
+
+#: admin/page-generator.php:27
+msgid "Generate icon class for main menu"
+msgstr ""
+
+#: admin/page-generator.php:35
+msgid "Select icon"
+msgstr ""
+
+#: admin/page-generator.php:52
+msgid "Icon position"
+msgstr ""
+
+#: admin/page-generator.php:55
+msgid "Before Menu item"
+msgstr ""
+
+#: admin/page-generator.php:56
+msgid "After Menu item"
+msgstr ""
+
+#: admin/page-generator.php:66
+msgid "Icon Class"
+msgstr ""
+
+#: admin/page-generator.php:73
+msgid "Notice!"
+msgstr ""
+
+#: admin/page-generator.php:76
+msgid "You can open popup via adding to the element:"
+msgstr ""
+
+#: admin/page-list.php:25
+msgid "Search"
+msgstr ""
+
+#: admin/page-main.php:27
+msgid "Item Deleted"
+msgstr ""
+
+#: admin/page-main.php:33
+msgid "List"
+msgstr ""
+
+#: admin/page-main.php:34
+msgid "Add new"
+msgstr ""
+
+#: admin/page-main.php:35
+msgid "Icon for menu"
+msgstr ""
+
+#: admin/page-main.php:36
+msgid "Pro Features"
+msgstr ""
+
+#: admin/page-main.php:37
+msgid "Support"
+msgstr ""
+
+#: admin/page-main.php:38
+msgid "Rate"
+msgstr ""
+
+#: admin/page-main.php:48
+msgid "Add New"
+msgstr ""
+
+#: admin/page-main.php:73 admin/settings/database.php:30
+msgid "Update"
+msgstr ""
+
+#: admin/page-settings.php:36
+msgid "Register an menu name"
+msgstr ""
+
+#: admin/page-settings.php:47
+msgid "Publish"
+msgstr ""
+
+#: admin/page-settings.php:55
+msgid "Deactivated"
+msgstr ""
+
+#: admin/page-settings.php:60
+msgid "Test mode"
+msgstr ""
+
+#: admin/page-settings.php:90
+msgid "Saving"
+msgstr ""
+
+#: admin/page-settings.php:115
+msgid "Menu"
+msgstr ""
+
+#: admin/page-settings.php:118
+msgid "Display"
+msgstr ""
+
+#: admin/page-support.php:24
+#, php-format
+msgid ""
+"To get your support related question answered in the fastest timing, please "
+"send a message via the form below or write to us on email %1$s"
+msgstr ""
+
+#: admin/page-support.php:28
+msgid ""
+"Also, you can send us your ideas and suggestions for improving the plugin."
+msgstr ""
+
+#: admin/page-support.php:50
+msgid "Please, Enter your Message."
+msgstr ""
+
+#: admin/page-support.php:53
+msgid "Please, Enter your Email."
+msgstr ""
+
+#: admin/page-support.php:81
+msgid "Your Message sent to the Support."
+msgstr ""
+
+#: admin/page-support.php:88
+msgid ""
+"Sorry, but message did not send. Please, contact us yoda@wow-company.com"
+msgstr ""
+
+#: admin/page-support.php:104
+msgid "First Name"
+msgstr ""
+
+#: admin/page-support.php:108
+msgid "Enter Your First Name"
+msgstr ""
+
+#: admin/page-support.php:116
+msgid "Last Name"
+msgstr ""
+
+#: admin/page-support.php:120
+msgid "Enter Your Last Name"
+msgstr ""
+
+#: admin/page-support.php:130
+msgid "Link to the page with issue"
+msgstr ""
+
+#: admin/page-support.php:142
+msgid "Contact email"
+msgstr ""
+
+#: admin/page-support.php:158
+msgid "Plugin"
+msgstr ""
+
+#: admin/page-support.php:171
+msgid "Message type"
+msgstr ""
+
+#: admin/page-support.php:176
+msgid "Issue"
+msgstr ""
+
+#: admin/page-support.php:177
+msgid "Idea"
+msgstr ""
+
+#: admin/page-support.php:190
+msgid "Enter Your Message"
+msgstr ""
+
+#: admin/page-support.php:205
+msgid "Send to Support"
+msgstr ""
+
+#: admin/settings/clone.php:26 admin/settings/menu.php:27
+msgid "no label"
+msgstr ""
+
+#: admin/settings/clone.php:40 admin/settings/menu.php:42
+msgid "Label Text"
+msgstr ""
+
+#: admin/settings/clone.php:47 admin/settings/menu.php:49
+msgid "Enable Tooltip"
+msgstr ""
+
+#: admin/settings/clone.php:52 admin/settings/menu.php:54
+msgid "Show Tooltip"
+msgstr ""
+
+#: admin/settings/clone.php:59 admin/settings/menu.php:61
+msgid "Type"
+msgstr ""
+
+#: admin/settings/clone.php:60 admin/settings/clone.php:96
+#: admin/settings/main.php:62 admin/settings/menu.php:62
+#: admin/settings/menu.php:98
+msgid "Icon"
+msgstr ""
+
+#: admin/settings/clone.php:61 admin/settings/main.php:31
+#: admin/settings/menu.php:63
+msgid "Style"
+msgstr ""
+
+#: admin/settings/clone.php:62 admin/settings/main.php:32
+#: admin/settings/menu.php:64
+msgid "Attributes"
+msgstr ""
+
+#: admin/settings/clone.php:69 admin/settings/menu.php:71
+msgid "Item type"
+msgstr ""
+
+#: admin/settings/clone.php:76 admin/settings/menu.php:78
+#: admin/settings/options/clone.php:54 admin/settings/options/menu.php:62
+msgid "Link"
+msgstr ""
+
+#: admin/settings/clone.php:83 admin/settings/menu.php:85
+msgid "Open link"
+msgstr ""
+
+#: admin/settings/clone.php:108 admin/settings/main.php:73
+#: admin/settings/menu.php:110
+msgid "Color"
+msgstr ""
+
+#: admin/settings/clone.php:116 admin/settings/menu.php:118
+msgid "Hover Color"
+msgstr ""
+
+#: admin/settings/clone.php:129 admin/settings/main.php:91
+#: admin/settings/menu.php:131
+msgid "ID for element"
+msgstr ""
+
+#: admin/settings/clone.php:137 admin/settings/main.php:99
+#: admin/settings/menu.php:139
+msgid "Class for element"
+msgstr ""
+
+#: admin/settings/clone.php:145 admin/settings/menu.php:147
+msgid "Attribute: rel"
+msgstr ""
+
+#: admin/settings/clone.php:153 admin/settings/menu.php:155
+msgid "Remove"
+msgstr ""
+
+#: admin/settings/database.php:39 admin/settings/database.php:51
+msgid "Save"
+msgstr ""
+
+#: admin/settings/display.php:18
+msgid "Show on devices"
+msgstr ""
+
+#: admin/settings/display.php:24
+msgid "Don't show on screens more"
+msgstr ""
+
+#: admin/settings/display.php:36
+msgid "Don't show on screens less"
+msgstr ""
+
+#: admin/settings/display.php:51
+msgid "Font Awesome 5 style"
+msgstr ""
+
+#: admin/settings/display.php:56
+msgid "Disable"
+msgstr ""
+
+#: admin/settings/main.php:30
+msgid "Icons"
+msgstr ""
+
+#: admin/settings/main.php:39
+msgid "Position"
+msgstr ""
+
+#: admin/settings/main.php:45
+msgid "Button shapes"
+msgstr ""
+
+#: admin/settings/main.php:51
+msgid "Animation"
+msgstr ""
+
+#: admin/settings/main.php:81
+msgid "Hover color"
+msgstr ""
+
+#: admin/settings/menu.php:172
+msgid "Add item"
+msgstr ""
+
+#: admin/settings/options/clone.php:42 admin/settings/options/menu.php:47
+msgid "On hover"
+msgstr ""
+
+#: admin/settings/options/clone.php:72 admin/settings/options/menu.php:83
+msgid "Same window"
+msgstr ""
+
+#: admin/settings/options/clone.php:84 admin/settings/options/main.php:94
+#: admin/settings/options/menu.php:94
+msgid "White"
+msgstr ""
+
+#: admin/settings/options/clone.php:95 admin/settings/options/main.php:107
+#: admin/settings/options/menu.php:105
+msgid "Black"
+msgstr ""
+
+#: admin/settings/options/clone.php:109 admin/settings/options/main.php:119
+msgid "Set ID for element."
+msgstr ""
+
+#: admin/settings/options/clone.php:125 admin/settings/options/main.php:130
+msgid "Set Class for element."
+msgstr ""
+
+#: admin/settings/options/clone.php:127 admin/settings/options/main.php:132
+msgid "You may enter several classes separated by a space."
+msgstr ""
+
+#: admin/settings/options/clone.php:132 admin/settings/options/menu.php:134
+msgid "Set the icon for menu item. If you want use the custom item:"
+msgstr ""
+
+#: admin/settings/options/clone.php:134 admin/settings/options/menu.php:136
+msgid "1. Check the box on \"custom\""
+msgstr ""
+
+#: admin/settings/options/clone.php:135 admin/settings/options/menu.php:137
+msgid "2. Upload the icon in Media Library"
+msgstr ""
+
+#: admin/settings/options/clone.php:136 admin/settings/options/menu.php:138
+msgid "3. Copy the URL to icon"
+msgstr ""
+
+#: admin/settings/options/clone.php:137 admin/settings/options/menu.php:139
+msgid "4. Paste the icon URL to field"
+msgstr ""
+
+#: admin/settings/options/clone.php:142 admin/settings/options/menu.php:144
+msgid "Set the text for menu item."
+msgstr ""
+
+#: admin/settings/options/clone.php:146 admin/settings/options/menu.php:148
+msgid "Select the type of menu item. Explanation of some types:"
+msgstr ""
+
+#: admin/settings/options/clone.php:148
+msgid ""
+"<strong>Smooth Scroll</strong> - Smooth scrolling of the page to the "
+"specified anchors on the page. Enter Link like #anchor"
+msgstr ""
+
+#: admin/settings/options/clone.php:155 admin/settings/options/menu.php:158
+msgid "When the page loads, the menu item will open."
+msgstr ""
+
+#: admin/settings/options/display.php:25
+msgid "Specify the window breakpoint in px when the button will be shown."
+msgstr ""
+
+#: admin/settings/options/display.php:53
+msgid "Specify the window breakpoint ( mix width) in px."
+msgstr ""
+
+#: admin/settings/options/display.php:79
+msgid "Disable Font Awesome 5 style on front-end of the site."
+msgstr ""
+
+#: admin/settings/options/display.php:81
+msgid ""
+"If you already have a Font Awesome 5 installed on the site, you can disable "
+"the include the Font Awesome 5 style."
+msgstr ""
+
+#: admin/settings/options/general.php:23
+msgid ""
+"If check - the menu not displayed on the frontend. If uncheck - the menu "
+"will show on the frontend."
+msgstr ""
+
+#: admin/settings/options/general.php:34
+msgid "If test mode is enabled, the form will show for admin only."
+msgstr ""
+
+#: admin/settings/options/general.php:39
+msgid "All posts and pages"
+msgstr ""
+
+#: admin/settings/options/general.php:40
+msgid "Where shortcode is inserted"
+msgstr ""
+
+#: admin/settings/options/general.php:55
+msgid "Choose a condition to target to specific content."
+msgstr ""
+
+#: admin/settings/options/main.php:24
+msgid "Top (max 9 items)"
+msgstr ""
+
+#: admin/settings/options/main.php:25
+msgid "Right (max 9 items)"
+msgstr ""
+
+#: admin/settings/options/main.php:26
+msgid "Bottom (max 9 items)"
+msgstr ""
+
+#: admin/settings/options/main.php:27
+msgid "Left (max 9 items)"
+msgstr ""
+
+#: admin/settings/options/main.php:28
+msgid "Top-left (max 5 items)"
+msgstr ""
+
+#: admin/settings/options/main.php:29
+msgid "Top-right (max 5 items)"
+msgstr ""
+
+#: admin/settings/options/main.php:30
+msgid "Bottom-right (max 5 items)"
+msgstr ""
+
+#: admin/settings/options/main.php:31
+msgid "Bottom-left (max 5 items)"
+msgstr ""
+
+#: admin/settings/options/main.php:37
+msgid "Specify menu position on screen."
+msgstr ""
+
+#: admin/settings/options/main.php:48
+msgid "Circle"
+msgstr ""
+
+#: admin/settings/options/main.php:56
+msgid "Choose the shape for menu buttons."
+msgstr ""
+
+#: admin/settings/options/main.php:67
+msgid "One by one"
+msgstr ""
+
+#: admin/settings/options/main.php:74
+msgid "Set the animation effect for opening menu."
+msgstr ""
+
+#: admin/settings/options/main.php:139 admin/settings/options/menu.php:170
+msgid "Set the attribute Alt for custom image."
+msgstr ""
+
+#: admin/settings/options/menu.php:150
+msgid ""
+"<strong>Smooth Scroll</strong> - Smooth scrolling of the page to the "
+"specified anchors on the page."
+msgstr ""
+
+#: admin/settings/options/menu.php:152
+msgid ""
+"<strong>ShiftNav Menu</strong> - open the menu, wich create via the plugin "
+"ShiftNav."
+msgstr ""
+
+#: admin/settings/options/menu.php:162
+msgid "Set the attribute ID for the menu item or left empty."
+msgstr ""
+
+#: admin/settings/options/menu.php:166
+msgid "Set the attribute CLASS for the menu item or left empty."
+msgstr ""
+
+#: assets/js/wp-color-picker-alpha.js:92
+msgid "Color value"
+msgstr ""
+
+#: assets/js/wp-color-picker-alpha.js:113
+msgid "Select Color"
+msgstr ""
+
+#: assets/js/wp-color-picker-alpha.js:124
+msgid "Default"
+msgstr ""
+
+#: assets/js/wp-color-picker-alpha.js:125
+msgid "Select default color"
+msgstr ""
+
+#: assets/js/wp-color-picker-alpha.js:129
+msgid "Clear"
+msgstr ""
+
+#: assets/js/wp-color-picker-alpha.js:130
+msgid "Clear color"
+msgstr ""
+
+#: bubble-menu.php:61 bubble-menu.php:62
+msgid "Bubble Menu"
+msgstr ""
+
+#: bubble-menu.php:80
+msgid "WordPress.org"
+msgstr ""
+
+#: bubble-menu.php:109 bubble-menu.php:121
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/about/main.php:84
+msgid "Welcome"
+msgstr ""
+
+#: includes/about/main.php:87
+msgid ""
+"Congratulations! You are about to use one of the plugins from Wow-Company."
+msgstr ""
+
+#: includes/about/main.php:115 includes/about/wow-plugins.php:94
+msgid "Active Installs"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Bubble Menu Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/bubble-menu"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Creating awesome circle menu with icons."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wow-Company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wow-estore.com/"
+msgstr ""
